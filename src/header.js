@@ -10,7 +10,10 @@ export default class Header extends Component {
 	              <div className = "store-name">Gregory's Appliance Repairs, LLC.</div>
 	              <div className = "store-phone">555-555-9999</div>
 	            </div>
-	            <div className = "language-select">Español  Français</div>
+	            <div className = "language-select">
+		            <p>Español</p>
+		            <p>Français</p>
+	            </div>
 	          </div>
 	      	</div>
         )

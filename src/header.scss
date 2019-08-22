@@ -43,14 +43,21 @@
 
 		.language-select {
 			vertical-align: top;
+			height: 18px;
 			margin-left: 369px;
 			display: inline-block;
 			font-family: Source Sans Pro;
 			font-weight: bold;
 			font-size: 14px;
 			line-height: 18px;
-			text-decoration-line: underline;
 			color: #068f99;
+
+			p {
+				display: inline-block;
+				margin: 0 18px 0 0;
+				vertical-align: top;
+				text-decoration-line: underline;
+			}
 		}
 	}
 }
