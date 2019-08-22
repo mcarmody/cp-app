@@ -1,0 +1,28 @@
+.get-started-container {
+	position: relative;
+	width: 540px;
+	margin: 55px auto;
+
+	.get-started-header {
+		font-family: Source Sans Pro Light;
+		font-style: normal;
+		font-weight: 300;
+		font-size: 36px;
+		line-height: 45px;
+		text-align: center;
+
+		color: #333333;
+	}
+
+	.get-started-subheader {
+		font-family: Source Sans Pro Light;
+		font-style: normal;
+		font-weight: 300;
+		font-size: 18px;
+		line-height: 23px;
+		/* identical to box height */
+		text-align: center;
+
+		color: #333333;
+	}
+}

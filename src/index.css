@@ -7,3 +7,8 @@ body {
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace; }
+
+.body-container {
+  position: absolute;
+  top: 193px;
+  width: 100%; }
