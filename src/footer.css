@@ -6,7 +6,8 @@
   bottom: 0;
   background: #EEEEEE; }
   .footer-container .footer-disclaimer {
-    margin: 26px 0 0 220px;
+    margin: 26px auto;
+    width: 950px;
     font-family: Source Sans Pro;
     font-style: normal;
     font-weight: normal;

@@ -1,6 +1,6 @@
 .header-container {
 	position: absolute;
-	width: 100%
+	width: 100%;
 	height: 115px;
 	left: 0px;
 	top: 0px;
@@ -8,8 +8,9 @@
 	background: #F9F9F9;
 
 	.header-copy-container{
-		display: inline-block;
-		margin: 31px 0 0 264px;
+		
+		margin: 31px auto;
+		width: 940px;
 		height: 50px;
 
 		.schedule-title {
