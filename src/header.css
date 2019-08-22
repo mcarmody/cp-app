@@ -1,0 +1,44 @@
+.header-container {
+  position: absolute;
+  width: 1440px;
+  height: 115px;
+  left: 0px;
+  top: 0px;
+  background: #F9F9F9; }
+  .header-container .header-copy-container {
+    display: inline-block;
+    margin: 31px 0 0 264px;
+    height: 50px; }
+    .header-container .header-copy-container .schedule-title {
+      display: inline-block;
+      font-family: Oswald;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 20px;
+      line-height: 133.89%;
+      text-transform: uppercase;
+      color: #555555;
+      vertical-align: top; }
+    .header-container .header-copy-container .store-contact-info {
+      margin-left: 47px;
+      display: inline-block;
+      font-family: Source Sans Pro SemiBold;
+      font-style: normal;
+      font-weight: bold;
+      font-size: 17px;
+      line-height: 21px;
+      color: #333333; }
+      .header-container .header-copy-container .store-contact-info .store-phone {
+        font-family: Source Sans Pro;
+        font-weight: normal; }
+    .header-container .header-copy-container .language-select {
+      vertical-align: top;
+      margin-left: 369px;
+      display: inline-block;
+      font-family: Source Sans Pro;
+      font-weight: bold;
+      font-size: 14px;
+      line-height: 18px;
+      -webkit-text-decoration-line: underline;
+      text-decoration-line: underline;
+      color: #068f99; }
