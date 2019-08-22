@@ -1,0 +1,31 @@
+.progress-tracker-container {
+  position: absolute;
+  width: 1440px;
+  height: 77px;
+  left: 0px;
+  top: 115px;
+  background: #eeeeee; }
+  .progress-tracker-container .progress-tracker {
+    width: 740px;
+    margin: 20px 350px 0 350px;
+    border-top: 4px solid white; }
+    .progress-tracker-container .progress-tracker .progress-tracker-fill {
+      position: absolute;
+      top: 20px;
+      width: 75px;
+      float: left;
+      border-top: 4px solid #EBB131; }
+    .progress-tracker-container .progress-tracker .progress-tracker-labels .tracker-label-first {
+      margin-left: 0px !important; }
+    .progress-tracker-container .progress-tracker .progress-tracker-labels .tracker-label-current {
+      font-family: Source Sans Pro SemiBold;
+      font-weight: 600; }
+    .progress-tracker-container .progress-tracker .progress-tracker-labels p {
+      display: inline-block;
+      margin-left: 85px;
+      font-family: Source Sans Pro;
+      font-style: normal;
+      font-weight: normal;
+      font-size: 16px;
+      line-height: 20px;
+      color: #333333; }
